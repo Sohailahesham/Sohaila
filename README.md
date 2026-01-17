@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohaila Hesham</h1>
-<h3 align="center">MERN Stack Developer | Backend Specialist (Node.js)</h3>
+<h3 align="center">MERN Stack Developer | Backend Specialist | Node.js, MongoDB, PostgreSQL</h3>
 
 <p align="center">
   <a href="https://github.com/Sohailahesham">
@@ -45,11 +45,11 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:sohaila.hesham456@gmail.com">
     <img src="https://img.icons8.com/color/96/gmail-new.png" />
   </a>
 
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/sohaila-hesham-5b6421253/">
     <img src="https://img.icons8.com/color/96/linkedin.png" />
   </a>
 </p>
